@@ -1,4 +1,4 @@
-name := "hibernate3-sbt-plugin-test"
+name := "hibernate3-sbt-plugin"
 
 version := "1.0"
 
